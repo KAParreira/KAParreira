@@ -1,4 +1,5 @@
-- 👋 こにちは, I’m @KAParreira
+<h2> Kauan Amorim Parreira </h2>
+- 👋 こにちは, I’m @KAParreira <br>
 - 📫 Insta: @kap.ii_ YouTube: KAPカピ
 
 
