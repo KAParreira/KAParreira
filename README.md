@@ -3,7 +3,7 @@
 - 📫 Insta: @kap.ii_ YouTube: KAPカピ
 <br>
 <br>
-<div align="center">
+<div>
 <a href="https://github.com/KAParreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaparreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaparreira&layout=compact&langs_count=7&theme=tokyonight"/>
