@@ -1,6 +1,11 @@
 <h2> Kauan Amorim Parreira </h2>
 - 👋 こにちは, I’m @KAParreira <br>
 - 📫 Insta: @kap.ii_ YouTube: KAPカピ
+<div align="center">
+<a href="https://github.com/KAParreira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaparreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaparreira&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <div style="display: inline_block" align="center"><br>
    <img margin="auto 20px auto 20px" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
