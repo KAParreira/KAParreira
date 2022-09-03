@@ -6,7 +6,7 @@
         <a href="//www.instagram.com/kap.ii_">
          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
          </a>
-  <a href="//www.linkedin.com/in/kauan-parreira">
+  <a href="//www.linkedin.com/in/kauan-parreira-b091a01b8">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
         </p>
