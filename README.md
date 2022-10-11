@@ -2,7 +2,8 @@
  👋 こにちは, I’m @KAParreira FATEC and ETEC student
  <hr>
  <br>
-      <p align="center">
+ <div style="display: flex" align="center">
+      <p>
         <a href="//www.instagram.com/kap.ii_">
          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
          </a>
@@ -10,11 +11,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
         </p>
-<br>
-<div style="display: flex" align="center">
-<a href="https://github.com/KAParreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaparreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaparreira&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaparreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaparreira&layout=compact&langs_count=7&theme=tokyonight"/>
+    
 </div>
 
 <div style="display: inline_block" align="center"><br>
