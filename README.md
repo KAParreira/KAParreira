@@ -1,5 +1,5 @@
 ## Kauan Amorim Parreira 
- 👋 こにちは, I’m @KAParreira FATEC and ETEC student
+ 👋 こにちは, I’m @KAParreira FATEC student
  <hr>
  <br>
  <div style="display: flex" align="center">
